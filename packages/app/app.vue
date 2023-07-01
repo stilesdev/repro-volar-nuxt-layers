@@ -1,0 +1,10 @@
+<template>
+  <div>
+    <AppComponent
+      :my-prop="1"
+    />
+    <LayerComponent
+      :my-prop="1"
+    />
+  </div>
+</template>

@@ -1,0 +1,11 @@
+{
+  "name": "nuxt-layer",
+  "private": true,
+  "scripts": {
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@types/node": "^18",
+    "nuxt": "^3.6.1"
+  }
+}
